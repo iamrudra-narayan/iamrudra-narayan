@@ -8,3 +8,7 @@
 - 📫 How to reach me: Twitter @rudramuduli
 - 😄 Pronouns: rudra/silu
 - ⚡ Fun fact: I spent 10 hours on sleep.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
