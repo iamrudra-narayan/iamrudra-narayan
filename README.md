@@ -8,4 +8,3 @@
 - 📫 How to reach me: Twitter @rudramuduli
 - 😄 Pronouns: rudra/silu
 - ⚡ Fun fact: I spent 10 hours on sleep.
-
