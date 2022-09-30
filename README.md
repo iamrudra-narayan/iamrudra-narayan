@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I spent 10 hours on sleep.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://cdn.dribbble.com/users/2104102/screenshots/4346639/heart-withpop.gif"/>
 </p>
