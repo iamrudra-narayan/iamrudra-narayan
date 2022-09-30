@@ -26,6 +26,6 @@
 </p>
 
 <h2> 🚀 &nbsp;My Github History</h2>
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrudra-narayan&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrudra-narayan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrudra-narayan&layout=compact)](https://github.com/iamrudra-narayan/github-readme-stats)
+![My Skill Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrudra-narayan&layout=compact)](https://github.com/iamrudra-narayan/github-readme-stats)
