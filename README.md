@@ -26,7 +26,14 @@
 </p>
 
 
-My Github History
+**My Github History**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrudra-narayan&show_icons=true&theme=gruvbox)
 ![My Skill Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrudra-narayan&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrudra-narayan&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrudra-narayan&repo=convoychat" />
+</a>
