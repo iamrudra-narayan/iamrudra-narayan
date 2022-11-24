@@ -1,5 +1,6 @@
 
 <h1><b>Hello, I'm Rudranarayan Muduli &#128512;</b></h1>
+<br><br>
 
 - 🔭 I’m currently Intern on IndiaKheloFootball.
 - 🌱 I’m currently learning Pyton Django and Fast-API.
@@ -9,7 +10,7 @@
 - 📫 How to reach me: Twitter @rudramuduli
 - 😄 Pronouns: rudra/silu
 - ⚡ Fun fact: I spent 10 hours on sleep.
-
+<br><br><br>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div style="display:flex;flex-direction:row;">
@@ -26,7 +27,7 @@
 <img src="https://skills.thijs.gg/icons?i=java" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=docker" style="width:7vh;">
 </div>
-
+<br><br><br>
 
 <h2> &#128508; Connect with Me</h2>
 <div style="display:flex;flex-direction:row;">
@@ -35,7 +36,7 @@
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </div>
-
+<br><br><br>
 
 <h2> &#128508; My Github History </h2>
 
