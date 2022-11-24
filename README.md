@@ -26,9 +26,9 @@
 <img src="https://skills.thijs.gg/icons?i=docker" style="width:7vh;">
 </div>
 
-<h2> 🚀 &nbsp;Connect with Me</h2>
+<h2> &#128508; Connect with Me</h2>
 <div style="display:flex;flex-direction:row;">
-<a href=""><img src="https://skills.thijs.gg/icons?i=facebook" style="width:7vh;"></a>  
+<a href="https://www.facebook.com/rudra.narayanmuduli.12"><img src="[https://skills.thijs.gg/icons?i=facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true)" style="width:7vh;"></a>  
 </div>
 
 **My Github History**
