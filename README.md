@@ -1,5 +1,7 @@
+<div style="display:flex;justify-content:center;">
 <h2><b>Hello, I'm Rudranarayan Muduli &#128512;</b></h2>
-
+</div>
+  
 <img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt=”my banner”>
 
 - 🔭 I’m currently Intern on IndiaKheloFootball.
