@@ -11,8 +11,8 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-<div style="display:flex;flex-direction:row;justify-content:space-around;margin-bottom:10px;">
-<img src="https://skills.thijs.gg/icons?i=py" style="width:7vh;margin:0 2px;">
+<div style="display:flex;flex-direction:row;">
+<img src="https://skills.thijs.gg/icons?i=py" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=django" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=flask" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=fastapi" style="width:7vh;">
@@ -26,6 +26,10 @@
 <img src="https://skills.thijs.gg/icons?i=docker" style="width:7vh;">
 </div>
 
+<h2> 🚀 &nbsp;Connect with Me</h2>
+<div style="display:flex;flex-direction:row;">
+<a href=""><img src="https://skills.thijs.gg/icons?i=facebook" style="width:7vh;"></a>  
+</div>
 
 **My Github History**
 
