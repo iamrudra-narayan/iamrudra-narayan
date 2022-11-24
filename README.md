@@ -17,4 +17,5 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrudra-narayan&show_icons=true&theme=gruvbox)
 ![My Skill Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrudra-narayan&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamrudra-narayan&repo=github-readme-stats)](https://github.com/iamrudra-narayan/github-readme-stats)
 
