@@ -14,11 +14,15 @@
 <img src="https://skills.thijs.gg/icons?i=py" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=django" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=flask" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=fast-api" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=html" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=css" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=js" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=mysql" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=git" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=scikit-learn" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=c" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=java" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=docker" style="width:7vh;">
 
 
