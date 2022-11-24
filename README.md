@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I spent 10 hours on sleep.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 **My Github History**
