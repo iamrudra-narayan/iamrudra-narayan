@@ -30,7 +30,9 @@
 
 <h2> &#128508; Connect with Me</h2>
 <div style="display:flex;flex-direction:row;">
-<a href="https://www.facebook.com/rudra.narayanmuduli.12"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>  
+<a href="https://www.facebook.com/rudra.narayanmuduli.12"><img align=”left” src=”https://raw.githubusercontent.com/
+iamrudra-narayan/
+iamrudra-narayan/master/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>  
 </div>
 
 **My Github History**
