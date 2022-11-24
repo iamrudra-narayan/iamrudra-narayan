@@ -16,7 +16,7 @@
 <img src="https://skills.thijs.gg/icons?i=django" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=flask" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=fastapi" style="width:7vh;">
-<img src="https://skills.thijs.gg/icons?i=scikitlearn" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=sklearn" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=html" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=css" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=js" style="width:7vh;">
