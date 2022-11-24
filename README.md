@@ -11,7 +11,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-<div style="display:flex;flex-direction:row;justify-content:space-between;margin-bottom:4px;">
+<div style="display:flex;flex-direction:row;justify-content:space-around;margin-bottom:10px;">
 <img src="https://skills.thijs.gg/icons?i=py" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=django" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=flask" style="width:7vh;">
@@ -28,8 +28,8 @@
 
 
 **My Github History**
-
+<div style="display:flex;flex-direction:column;justify-content:space-around;margin-bottom:4px;">
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrudra-narayan&show_icons=true&theme=gruvbox)
 ![My Skill Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrudra-narayan&layout=compact)
-
+</div>
 
