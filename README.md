@@ -1,11 +1,11 @@
-<div style="display:flex;justify-content:center;">
-<h2><b>Hello, I'm Rudranarayan Muduli &#128512;</b></h2>
-</div>
+
+<h1><b>Hello, I'm Rudranarayan Muduli &#128512;</b></h1>
+
   
 <img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt=”my banner”>
 
 - 🔭 I’m currently Intern on IndiaKheloFootball.
-- 🌱 I’m currently learning Pyton Django.
+- 🌱 I’m currently learning Pyton Django and Fast-API.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with Hackerrank.
 - 💬 Ask me about any tech related stuffs.
@@ -37,7 +37,7 @@
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </div>
-<br><br>
+<br><br><br><br>
 
 <h2> &#128508; My Github History </h2>
 
