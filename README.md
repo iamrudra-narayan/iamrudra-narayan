@@ -10,7 +10,16 @@
 - ⚡ Fun fact: I spent 10 hours on sleep.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<img src="https://skills.thijs.gg/icons?i=js" style="width:5vh;">
+
+<img src="https://skills.thijs.gg/icons?i=py" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=django" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=flask" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=html" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=css" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=js" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=mysql" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=git" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=docker" style="width:7vh;">
 
 
 **My Github History**
