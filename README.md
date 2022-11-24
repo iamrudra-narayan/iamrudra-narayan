@@ -12,11 +12,10 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <div style="display:flex;flex-direction:row;justify-content:space-around;margin-bottom:10px;">
-<img src="https://skills.thijs.gg/icons?i=py" style="width:7vh;">
+<img src="https://skills.thijs.gg/icons?i=py" style="width:7vh;margin:0 2px;">
 <img src="https://skills.thijs.gg/icons?i=django" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=flask" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=fastapi" style="width:7vh;">
-<img src="https://skills.thijs.gg/icons?i=sklearn" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=html" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=css" style="width:7vh;">
 <img src="https://skills.thijs.gg/icons?i=js" style="width:7vh;">
