@@ -1,6 +1,6 @@
 **Hello, I'm Rudranarayan Muduli** &#128512;
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt=”my banner”>
 
 - 🔭 I’m currently Intern on IndiaKheloFootball.
 - 🌱 I’m currently learning Pyton Django.
@@ -30,9 +30,7 @@
 
 <h2> &#128508; Connect with Me</h2>
 <div style="display:flex;flex-direction:row;">
-<a href="https://www.facebook.com/rudra.narayanmuduli.12"><img align=”left” src=”https://raw.githubusercontent.com/
-iamrudra-narayan/
-iamrudra-narayan/master/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>  
+<a href="https://www.facebook.com/rudra.narayanmuduli.12"></a>  
 </div>
 
 **My Github History**
