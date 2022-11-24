@@ -2,6 +2,8 @@
 <h1><b>Hello, I'm Rudranarayan Muduli &#128512;</b></h1>
 <br><br>
 
+<img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png">
+
 - 🔭 I’m currently Intern on IndiaKheloFootball.
 - 🌱 I’m currently learning Pyton Django and Fast-API.
 - 👯 I’m looking to collaborate on Github.
