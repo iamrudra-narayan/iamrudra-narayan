@@ -1,4 +1,4 @@
-**Hello, I'm Rudranarayan Muduli**👋
+**Hello, I'm Rudranarayan Muduli** &#128512;
 
 - 🔭 I’m currently Intern on IndiaKheloFootball.
 - 🌱 I’m currently learning Pyton Django.
