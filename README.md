@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I spent 10 hours on sleep.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<img src="https://skills.thijs.gg/icons?i=js" style="width:10vh;">
+<img src="https://skills.thijs.gg/icons?i=js" style="width:5vh;">
 
 
 **My Github History**
