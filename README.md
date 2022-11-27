@@ -1,7 +1,7 @@
 
 <h1><b>Hello, I'm Rudra &#128512;</b></h1>
 
-<img src="https://rudra-blogpost.herokuapp.com/static/pics/Rudra_Banner.jpg"/>
+<img src="https://raw.githubusercontent.com/iamrudra-narayan/myportfolio/master/rudrabanner.gif"/>
 
 - 🔭 I’m currently Intern on IndiaKheloFootball.
 - 🌱 I’m currently learning Pyton Django and Fast-API.
