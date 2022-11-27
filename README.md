@@ -31,11 +31,11 @@
 
 <h2> &#128508; Connect with Me</h2>
 <div style="display:flex;flex-direction:row;">
-<img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/instagram.png"/>
-<img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/linkedin.png"/>
-<img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/facebook.png"/>
-<img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/twitter.png"/>
-<img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/youtube.png"/>
+<a href="https://www.instagram.com/rnm_rudra/"><img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/instagram.png"/>
+<a href="https://www.linkedin.com/in/rudranarayan-muduli-b85346248"><img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/linkedin.png"/></a>
+<a href="https://www.facebook.com/rudra.narayanmuduli.12"><img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/facebook.png"/>
+<a href="https://twitter.com/Rudramuduli1"><img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/twitter.png"/>
+<a href="https://www.youtube.com/channel/UC9yaqSt9YVIjRKZTdkb5Lrw"><img style="width:6vh;margin-right:10px;" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/youtube.png"/>
 <br><br><br>
 
 <h2> &#128508; My Github History </h2>
