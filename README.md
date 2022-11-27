@@ -31,10 +31,11 @@
 
 <h2> &#128508; Connect with Me</h2>
 <div style="display:flex;flex-direction:row;">
-<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/images/instagram.png"/>
-<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/images/linkedin.png"/>
+<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/instagram.png"/>
+<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/linkedin.png"/>
 <img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/facebook.png"/>
-<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/images/linkedin.png"/>
+<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/twitter.png"/>
+<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/YouTube.png"/>
 <br><br><br>
 
 <h2> &#128508; My Github History </h2>
