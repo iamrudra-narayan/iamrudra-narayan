@@ -9,7 +9,7 @@
 - 💬 Ask me about any tech related stuffs.
 - 📫 How to reach me: Twitter @rudramuduli
 - 😄 Pronouns: rudra/silu
-- ⚡ Fun fact: I spent 10 hours on sleep.
+- ⚡ Fun fact: I eat much more at night.
 <br><br><br>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
