@@ -33,7 +33,7 @@
 <div style="display:flex;flex-direction:row;">
 <img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/images/instagram.png"/>
 <img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/images/linkedin.png"/>
-<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/images/instagram.png"/>
+<img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/facebook.png"/>
 <img style="width:7vh" src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/images/linkedin.png"/>
 <br><br><br>
 
