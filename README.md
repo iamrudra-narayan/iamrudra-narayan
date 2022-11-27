@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/iamrudra-narayan/iamrudra-narayan/main/Rudra%20Banner%20(1).gif"/>
-<br>
 
 <h1><b>Hi There, I'm Rudra &#128512;</b></h1>
 
