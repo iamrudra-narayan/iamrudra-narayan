@@ -2,8 +2,8 @@
 
 <h1><b>Hi There, I'm Rudra &#128512;</b></h1>
 
-- 🔭 I’m currently Intern on IndiaKheloFootball.
-- 🌱 I’m currently learning Pyton Django and Fast-API.
+- 🔭 I’m currently working at Kemsys Technologies Pvt Ltd.
+- 🌱 I’m currently learning AI & ML and Generative AI.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with Hackerrank.
 - 💬 Ask me about any tech related stuffs.
